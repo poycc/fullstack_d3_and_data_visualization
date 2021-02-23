@@ -1,6 +1,6 @@
 async function drawBars() {
   // 1. Access data
-  const dataset = await d3.json("../../../data/my_weather_data.json");
+  const dataset = await d3.json("../../data/my_weather_data.json");
 
   // 2. Create dimensions
   const width = 500;
