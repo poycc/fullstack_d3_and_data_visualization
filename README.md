@@ -18,3 +18,6 @@ Here are my study notes of [Fullstack D3 and Data Visualization](https://www.ful
 
    (2) svg animate, [view](https://pcu.gitee.io/fullstack_d3_and_data_visualization/04-animations-and-transitions/css-animate.html)
    ![css animate](images/04-css-animate.gif)
+
+   (3) Draw bars with CSS transition, [view](https://pcu.gitee.io/fullstack_d3_and_data_visualization/04-animations-and-transitions/draw-bars-with-css-transition/index.html)
+   ![Draw bars with CSS transition](images/04-draw-bars-with-css-transition.gif)
